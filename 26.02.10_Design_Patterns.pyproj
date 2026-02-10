@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>aa3712d8-0b24-4e78-a03b-c0951d7c535a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_26.02.10_Singleton.py</StartupFile>
+    <StartupFile>26.02.10_Singleton.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_26.02.10_Singleton.py" />
+    <Compile Include="26.02.10_Singleton.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
