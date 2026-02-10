@@ -22,5 +22,5 @@ class Adapter(NewApp):
 
 
 
-    newApp = Adapter()
-    print(newApp.new_method())
+newApp = Adapter()
+print(newApp.new_method())

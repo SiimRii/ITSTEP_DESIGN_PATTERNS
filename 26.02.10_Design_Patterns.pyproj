@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="26.02.10_Adapter.py" />
     <Compile Include="26.02.10_Builder.py" />
+    <Compile Include="26.02.10_Decorator.py" />
     <Compile Include="26.02.10_Singleton.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
