@@ -1,4 +1,5 @@
 
+# CREATIONAL
 
 class Singleton:
     #atribute of singleton, exists only one such object
