@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>aa3712d8-0b24-4e78-a03b-c0951d7c535a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>26.02.10_Builder.py</StartupFile>
+    <StartupFile>26.02.10_Adapter.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
