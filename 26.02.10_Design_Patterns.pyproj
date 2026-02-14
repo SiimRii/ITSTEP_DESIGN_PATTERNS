@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>aa3712d8-0b24-4e78-a03b-c0951d7c535a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>26.02.10_Adapter.py</StartupFile>
+    <StartupFile>26.02.10_Strategy.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,11 @@
     <Compile Include="26.02.10_Adapter.py" />
     <Compile Include="26.02.10_Builder.py" />
     <Compile Include="26.02.10_Decorator.py" />
+    <Compile Include="26.02.10_Facade.py" />
+    <Compile Include="26.02.10_HW_Pasta_CookingApp_builder.py" />
+    <Compile Include="26.02.10_Observer.py" />
     <Compile Include="26.02.10_Singleton.py" />
+    <Compile Include="26.02.10_Strategy.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
