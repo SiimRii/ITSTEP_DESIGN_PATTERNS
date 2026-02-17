@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>aa3712d8-0b24-4e78-a03b-c0951d7c535a</ProjectGuid>
+    <ProjectGuid>45e39d1d-3099-4e54-9386-b27e69e350bf</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>26.02.10_HW_Pasta_CookingApp_builder.py</StartupFile>
+    <StartupFile>_26.02.17_HW_ShoeWarehouse.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>26.02.10_Design_Patterns</Name>
-    <RootNamespace>26.02.10_Design_Patterns</RootNamespace>
+    <Name>26.02.17_HW_ShoeWarehouse</Name>
+    <RootNamespace>26.02.17_HW_ShoeWarehouse</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,14 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="26.02.10_Adapter.py" />
-    <Compile Include="26.02.10_Builder.py" />
-    <Compile Include="26.02.10_Decorator.py" />
-    <Compile Include="26.02.10_Facade.py" />
-    <Compile Include="26.02.10_HW_Pasta_CookingApp_builder.py" />
-    <Compile Include="26.02.10_Observer.py" />
-    <Compile Include="26.02.10_Singleton.py" />
-    <Compile Include="26.02.10_Strategy.py" />
+    <Compile Include="_26.02.17_HW_ShoeWarehouse.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
