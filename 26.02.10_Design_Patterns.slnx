@@ -2,4 +2,7 @@
   <Project Path="26.02.10_Design_Patterns.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="aa3712d8-0b24-4e78-a03b-c0951d7c535a">
     <Build Project="false" />
   </Project>
+  <Project Path="26.02.17_MVC/26.02.17_MVC.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="a1957d0e-62d1-4bc5-aeca-e972701600c9">
+    <Build Project="false" />
+  </Project>
 </Solution>
