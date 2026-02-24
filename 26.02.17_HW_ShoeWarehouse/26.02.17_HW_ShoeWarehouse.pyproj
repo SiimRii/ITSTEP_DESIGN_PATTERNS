@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>45e39d1d-3099-4e54-9386-b27e69e350bf</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_26.02.17_HW_ShoeWarehouse.py</StartupFile>
+    <StartupFile>_260217_main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_26.02.17_HW_ShoeWarehouse.py" />
+    <Compile Include="_260217_ShoeController.py" />
+    <Compile Include="_260217_ShoeModel.py" />
+    <Compile Include="_260217_ShoeView.py" />
+    <Compile Include="_260217_main.py" />
+    <Compile Include="_260217_Shoe.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
